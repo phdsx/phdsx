@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="200" viewBox="0 0 250 200" role="img" aria-label="A little robot in motion">
+<title>A little robot in motion</title><style>text{font-family:Arial,"Microsoft YaHei",sans-serif}.bounce{animation:run .8s ease-in-out infinite}@keyframes run{50%{transform:translateY(-7px) rotate(3deg);transform-origin:center}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<ellipse cx="127" cy="180" rx="84" ry="7" fill="#9b8dbd" opacity=".12"/>
+<g class="bounce"><path d="M114 118l-29 28-34-5m76-18 22 28 39 12" stroke="#a7a0d1" stroke-width="13" fill="none" stroke-linecap="round"/>
+<path d="M114 88L83 77 66 92m65 1 29 22 23-7" stroke="#ab9cda" stroke-width="11" fill="none" stroke-linecap="round"/>
+<rect x="99" y="76" width="42" height="55" rx="16" fill="#a996d8" transform="rotate(13 120 100)"/>
+<rect x="102" y="30" width="54" height="48" rx="17" fill="#d8d9ee"/><rect x="112" y="43" width="39" height="22" rx="10" fill="#354363"/><circle cx="132" cy="53" r="3" fill="#8fdbd4"/><circle cx="143" cy="53" r="3" fill="#8fdbd4"/><path d="M129 30V20" stroke="#a995d3" stroke-width="3"/><circle cx="129" cy="17" r="4" fill="#82ccc7"/>
+</g><g stroke="#ac9ad7" stroke-width="3" stroke-linecap="round" opacity=".5"><path d="M46 109h28m-40 13h22m-8-25h13"/></g>
+</svg>

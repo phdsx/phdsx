@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="34" viewBox="0 0 1000 34" role="img" aria-label="Decorative divider">
+<title>Decorative divider</title><style>text{font-family:Arial,"Microsoft YaHei",sans-serif}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="g"><stop stop-color="#8e83bf" stop-opacity="0"/><stop offset=".5" stop-color="#a697d5"/><stop offset="1" stop-color="#8e83bf" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 17h475m50 0h475" stroke="url(#g)" stroke-width="2"/><path d="M500 8l9 9-9 9-9-9z" fill="#a697d5"/>
+</svg>

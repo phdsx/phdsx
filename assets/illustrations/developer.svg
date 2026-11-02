@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="350" viewBox="0 0 700 350" role="img" aria-label="A coding robot at a desk under a starry sky">
+<title>A coding robot at a desk under a starry sky</title><style>text{font-family:Arial,"Microsoft YaHei",sans-serif}.float{animation:float 4s ease-in-out infinite}.head{animation:nod 5s ease-in-out infinite;transform-origin:377px 177px}.cursor{animation:blink 1.2s steps(2,end) infinite}.code{animation:glow 4s ease-in-out infinite}@keyframes float{50%{transform:translateY(-9px)}}@keyframes nod{50%{transform:rotate(3deg)}}@keyframes blink{50%{opacity:0}}@keyframes glow{50%{opacity:.6}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#1d2946"/><stop offset="1" stop-color="#302750"/></linearGradient></defs>
+<ellipse cx="354" cy="326" rx="276" ry="15" fill="#8f83c3" opacity=".12"/>
+<rect x="58" y="22" width="584" height="264" rx="24" fill="url(#panel)"/>
+<g fill="#b0a3e4" opacity=".35"><circle cx="89" cy="97" r="2"/><circle cx="614" cy="181" r="2"/><circle cx="340" cy="58" r="2"/><path d="M577 49v12m-6-6h12" stroke="#b0a3e4" stroke-width="2"/></g>
+<rect x="90" y="57" width="193" height="152" rx="12" fill="#111c31" stroke="#596389"/>
+<circle cx="104" cy="69" r="3" fill="#f49a9a"/><circle cx="115" cy="69" r="3" fill="#f0d28c"/><circle cx="126" cy="69" r="3" fill="#89d4b0"/>
+<g stroke-linecap="round" stroke-width="6" class="code"><path d="M110 96h63m-63 18h29m10 0h86m-112 18h77m-90 18h38m10 0h77m-112 18h49" stroke="#9f8edd"/><path d="M183 96h55m-28 36h40m-65 36h44" stroke="#77cbcc"/></g>
+<rect x="111" y="184" width="60" height="5" rx="2" fill="#77cbcc" class="cursor"/>
+<g class="float"><rect x="473" y="77" width="124" height="79" rx="10" fill="#1a253e" stroke="#736294"/><text x="534" y="126" text-anchor="middle" font-family="monospace" font-size="29" font-weight="700" fill="#a8e3da">&lt; / &gt;</text></g>
+<path d="M332 260v55m91-55v55" stroke="#4a547c" stroke-width="13"/>
+<path d="M321 312h35m48 0h32" stroke="#a49acd" stroke-width="11" stroke-linecap="round"/>
+<rect x="319" y="174" width="118" height="93" rx="28" fill="#8f83c9"/>
+<rect x="332" y="188" width="92" height="57" rx="18" fill="#b7ace4"/>
+<path d="M321 195l-32 45h-33m177-45 30 45h31" stroke="#a69ad7" stroke-width="15" stroke-linecap="round" fill="none"/>
+<g class="head"><rect x="320" y="95" width="114" height="87" rx="29" fill="#d7d8f2"/><rect x="332" y="113" width="90" height="49" rx="17" fill="#24314f"/><g fill="#88dfd3"><rect x="349" y="128" width="10" height="13" rx="5"/><rect x="394" y="128" width="10" height="13" rx="5"/></g><path d="M367 146q10 7 20 0" fill="none" stroke="#88dfd3" stroke-width="3" stroke-linecap="round"/><path d="M377 95V77" stroke="#a6a4d4" stroke-width="4"/><circle cx="377" cy="73" r="6" fill="#88dfd3"/></g>
+<rect x="158" y="248" width="408" height="14" rx="7" fill="#b6a6d2"/><path d="M183 263v54m356-54v54" stroke="#7b749b" stroke-width="9"/>
+<rect x="230" y="234" width="90" height="12" rx="5" fill="#657392"/><path d="M240 238h70" stroke="#aabbd4" stroke-dasharray="3 3"/>
+<path d="M491 218h26v26h-26z" fill="#8ad5cf"/><path d="M517 223h8v12h-8" stroke="#8ad5cf" stroke-width="4" fill="none"/>
+<path d="M578 275h38l-6 40h-26z" fill="#8e81b7"/><path d="M597 281v-69m0 29q-36-4-29-28 24-4 29 28m0 18q32-6 29-29-25 0-29 29" fill="#70b3a7" stroke="#70b3a7" stroke-width="3"/>
+</svg>

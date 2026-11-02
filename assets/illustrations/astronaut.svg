@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="200" viewBox="0 0 180 200" role="img" aria-label="A small floating astronaut">
+<title>A small floating astronaut</title><style>text{font-family:Arial,"Microsoft YaHei",sans-serif}.float{animation:f 5s ease-in-out infinite}@keyframes f{50%{transform:translateY(9px) rotate(3deg);transform-origin:center}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g class="float"><path d="M61 69l-18 49m88-49 19 33m-12 1 12-1 4-14" fill="none" stroke="#c6c4df" stroke-width="15" stroke-linecap="round"/>
+<rect x="60" y="61" width="69" height="85" rx="24" fill="#dcdced"/>
+<path d="M78 138l-7 36m40-36 6 36" stroke="#c6c4df" stroke-width="20" stroke-linecap="round"/>
+<circle cx="95" cy="49" r="37" fill="#dedfee"/><rect x="67" y="29" width="56" height="38" rx="18" fill="#354363"/>
+<path d="M80 37h20" stroke="#b8c9e3" opacity=".6" stroke-width="5" stroke-linecap="round"/>
+<rect x="78" y="90" width="34" height="25" rx="5" fill="#9f90ce"/><circle cx="87" cy="102" r="3" fill="#8ce0ce"/><path d="M96 101h8m-8 6h6" stroke="#e0d9f2" stroke-width="2"/>
+</g><g fill="#aa9bd4"><circle cx="35" cy="42" r="3"/><circle cx="146" cy="154" r="3"/><path d="M150 36v12m-6-6h12" stroke="#aa9bd4" stroke-width="2"/></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="220" viewBox="0 0 260 220" role="img" aria-label="A tiny orbit of ideas">
+<title>A tiny orbit of ideas</title><style>text{font-family:Arial,"Microsoft YaHei",sans-serif}.orbit{animation:spin 14s linear infinite;transform-origin:130px 110px}@keyframes spin{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<g fill="none" stroke="#a89acf" opacity=".55"><ellipse cx="130" cy="110" rx="106" ry="42" transform="rotate(-28 130 110)"/><ellipse cx="130" cy="110" rx="106" ry="42" transform="rotate(28 130 110)"/></g>
+<circle cx="130" cy="110" r="45" fill="#b3a3db"/><path d="M108 92l-12 18 12 18m44-36 12 18-12 18m-17-41-10 46" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<g class="orbit"><circle cx="222" cy="110" r="9" fill="#7ccdc0"/><circle cx="42" cy="110" r="5" fill="#e5b484"/></g>
+<g fill="#b8a8d7"><circle cx="43" cy="39" r="2"/><circle cx="223" cy="169" r="2"/><circle cx="180" cy="26" r="3"/></g>
+</svg>
