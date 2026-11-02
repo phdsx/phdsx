@@ -159,5 +159,5 @@
   <p><em>让小小的想法，在一次次提交中慢慢成形。</em></p>
   <br />
   <img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%" />
-  <p><sub>公开数据快照：2026-11-02 UTC · <a href="./docs/SETUP.md">更新与配置说明</a></sub></p>
+  <p><sub>公开数据快照：2026-11-02 UTC</sub></p>
 </div>
